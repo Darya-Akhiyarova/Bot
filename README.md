@@ -75,3 +75,9 @@ void loop(){
   }
 }
 ```
+
+**Видео-подтверждение**
+
+https://github.com/Darya-Akhiyarova/Bot/assets/144244924/ab5fb75d-af2e-4339-9ede-965fb764462c
+
+
